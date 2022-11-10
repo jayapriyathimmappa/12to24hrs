@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "timercount", "timercount.csproj", "{31492930-2D27-42D9-833D-A5F873C4E04D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31492930-2D27-42D9-833D-A5F873C4E04D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31492930-2D27-42D9-833D-A5F873C4E04D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31492930-2D27-42D9-833D-A5F873C4E04D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31492930-2D27-42D9-833D-A5F873C4E04D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {55EEE3A5-BD42-4B36-A076-DAA995610DA5}
+	EndGlobalSection
+EndGlobal
